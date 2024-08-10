@@ -1,8 +1,10 @@
-# React + Vite
+ROAD MAP DAY 30 MY TODO TASK 18 COMPLETED
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+React Axios Task
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Task Description:
+
+Create a React App that allows for CRUD operations with user data using React and Axios fetch to interact with a mock API.
+
+Mock API URL : https://jsonplaceholder.typicode.com/users
